@@ -1,0 +1,36 @@
+{"users":[
+    {
+        "name": "sakshi",
+        "age": "22",
+        "place": "nagpur",
+        "batch": "WEB-13",
+        "prof": "Frontend",
+        "id": 1
+      },
+      {
+        "name": "ankit",
+        "age": "26",
+        "place": "nagpur",
+        "batch": "WEB-15",
+        "prof": "Backend",
+        "id": 2
+      },
+      {
+        "name": "prabhat",
+        "age": "24",
+        "place": "jharkhand",
+        "batch": "WEB-14",
+        "prof": "student",
+        "id": 3
+      },
+      {
+        "inid": "4",
+        "name": "harsh",
+        "age": "26",
+        "place": "mumbai",
+        "batch": "WEB-14",
+        "prof": "Backend",
+        "id": 4
+      }
+    ]
+}
